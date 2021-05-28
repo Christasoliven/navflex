@@ -1,0 +1,20 @@
+.nav {
+    width:100%;
+    background-color: rgb(87, 87, 146);
+    font-family: monospace;
+    display: flex;
+}
+
+.nav-title  {
+    width: 100%;
+    justify-self: left;
+
+}
+
+.words {
+    width: 100%;
+    text-align: right;
+    display: inline-flex;
+    justify-content: right;
+    padding-top: 25px;
+}
